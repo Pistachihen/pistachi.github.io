@@ -5,7 +5,7 @@ layout: page
 comments: false
 ---
 
-Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my thoughts and .
 
 If you have a question about him or else, just send a letter to him.
 
