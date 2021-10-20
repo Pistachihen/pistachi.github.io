@@ -11,7 +11,7 @@ If you have a question about me or else, just reach me out.
 
 **may u needs ✨**
 
-- {{ site.author.email }}
+- []{{ site.author.email }}
 - [discord](https://discordapp.com/users/788123099748630567)
 - [insta](https://www.instagram.com/henri.boteon/)
 - [twitter](https://twitter.com/pistachihoni)
