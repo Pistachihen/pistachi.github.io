@@ -10,7 +10,7 @@ Hello, you must have clicked this wondering "services？ How can this part japan
 - Same as the system above, I can also provide **private Portuguese tutoring**, since it's my mother language.
 - If you are situated on the *UBC Vancouver campus*, you can bring me your **computer or laptop for any repair, a cleanup or a component installation like an SSD!**
 
-- Having peaked as masters in League of Legends, I can also provide **private soloQ coaching, mainly for jungling.
+- Having peaked as masters in League of Legends, I can also provide **private soloQ coaching**, mainly for jungling.
 
 
 
