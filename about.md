@@ -1,5 +1,5 @@
 ---
-title: at hand
+title: 
 permalink: /about/
 layout: page
 comments: false
