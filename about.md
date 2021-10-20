@@ -5,7 +5,7 @@ layout: page
 comments: false
 ---
 
-Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my thoughts and reflections, and journy through my academic life.
+Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my thoughts and reflections, and journy through my academic life.Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my thoughts and reflections, and journy through my academic life. I made this website using Jekyll hosted on github, using the Jekyll Klisé theme avaiable on
 
 If you have a question about me or else, just reach me.
 
