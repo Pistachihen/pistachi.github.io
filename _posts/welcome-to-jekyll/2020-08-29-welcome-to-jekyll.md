@@ -7,7 +7,7 @@ categories: services
 Hello, you must have clicked this wondering "services？ How can this part japanese second-year engineering boy provide me anything?", Yes.
 
 - Being fluent on the japanese language since the age of 12, I can give **private japanese tutoring** for any levels, the first class being *FREE!* and for newbies, promising fluency in Hiragana and Katakana in just two lessons! I used to be a teacher assistant for a local japa school for kids in brazil back then, so I'm experienced with teaching newcomers to the language.
-- Similar to above, I can provide **private Portuguese, **
+- Similar to above, I can provide **private Portuguese,**
 
 and if you are situated on the UBC campus in Vancouver, I can fix/clean/install an SSD to your computer/laptop
 
