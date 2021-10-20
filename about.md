@@ -9,8 +9,6 @@ Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Va
 
 If you have a question about me or else, just reach me out.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
 **may u needs ✨**
 
 - {{ site.author.email }}
