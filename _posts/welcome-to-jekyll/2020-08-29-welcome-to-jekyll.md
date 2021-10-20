@@ -10,7 +10,7 @@ Hello, you must have clicked this wondering "services？ How can this part japan
 - Same as the system above, I can also provide **private Portuguese(br) tutoring**, since it's my mother language.
 - If you are situated on the *UBC Vancouver campus*, you can bring me your computer or laptop for any **repair, a cleanup or a component installation like an SSD!**.
 - Having peaked as masters in League of Legends, I can also provide **private jungle soloQ coaching**, mainly for improving jungling macrogame.
-- With extensive Photoshop and Sony Vegas skills, I can provide with ***FRESH!* banner/logo/merch/thumbnail designs**, I am not currently doing video editing.
+- With extensive Photoshop and Sony Vegas skills, I can make you manu ***FRESH!* banner/logo/merch/thumbnail designs**, I am not currently doing video editing.
 
 and finally if you're a very rich person I can also become a house-husband who cleans the house and pets dogs.
 
