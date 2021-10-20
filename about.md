@@ -12,4 +12,4 @@ If you have a question about me or else, just reach me out.
 **may u needs ✨**
 
 - {{ site.author.email }}
-- 
+- []
