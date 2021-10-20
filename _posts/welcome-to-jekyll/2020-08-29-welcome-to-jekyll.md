@@ -12,6 +12,6 @@ Hello, you must have clicked this wondering "services？ How can this part japan
 - Having peaked as masters in League of Legends, I can also provide **private jungle soloQ coaching**, mainly for improving jungling macrogame.
 - With extensive Photoshop and Sony Vegas skills, I can provide with ***FRESH!* banner/logo/merch/thumbnail designs**, I am not currently doing video editing.
 
-and finally if you're a very rich person I'm also available to work as a house-husband who cleans the house and pets dogs.
+and finally if you're a very rich person I can also become a house-husband who cleans the house and pets dogs.
 
 Reach me out on any social media listed in 
