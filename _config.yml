@@ -7,7 +7,7 @@ image: assets/img/ogp.png
 repo: 'https://github.com/Pistachihen/pistachi.github.io'
 mode: dark
 author:
-  name: Henri Takeda Boteon
+  name:
   bio: >-
     Second-year Chemical and Biological Engineering student at UBC, Vancouver.
     
