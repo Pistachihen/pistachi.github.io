@@ -11,8 +11,7 @@ mode: dark
 author:
   name: Henri Takeda Boteon
   bio: >-
-    The minimalist Jekyll theme, light and dark mode support, for running a
-    personal site and blog,  meet Klisé theme at <a
+     <a
     href="https://github.com/piharpi/jekyll-klise" target="_blank"
     rel="noopener">@github</a>.
   username: username
