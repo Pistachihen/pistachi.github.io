@@ -7,7 +7,7 @@ comments: false
 
 Howdy, I'm student of chemical engineering from São Paulo, Brazil, living in Vancouver. This blog is for documentation about my thoughts and reflections, and journy through my academic life.
 
-If you have a question about him or else, just send a letter to him.
+If you have a question about me or else, just send a letter to him.
 
 You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
